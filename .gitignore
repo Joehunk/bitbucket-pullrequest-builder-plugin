@@ -18,3 +18,5 @@ bin/
 *.ipr
 *.iws
 .idea/
+
+*.orig
